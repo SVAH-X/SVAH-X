@@ -1,78 +1,20 @@
-# Hi, I'm SVAH-X 👋
+# Hi, I'm Kelvin Peng
 
-AI Engineer focused on **building, fine-tuning, and deploying large-scale AI systems**.  
-Strong interest in **LLMs, multimodal models, and applied AI infrastructure**.
-
-🎓 Currently studying at **University of Waterloo**, with a strong background in **mathematics, statistics, and computing**.
+I am a student at the University of Waterloo double-majoring in Combinatorics & Optimization and Statistics.  I focus on building intelligent systems grounded in theoretical rigor, and I'm eager to apply my skills to solve real-world problems in AI.
 
 ---
 
-## 🔍 Research & Engineering Interests
+## Activity
 
-- Large Language Models (LLMs)
-- Model Fine-tuning (LoRA / QLoRA / SFT)
-- Multimodal Learning (Vision + Language)
-- AI Systems & Optimization
-- Applied AI Productization
+<p align="left">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=SVAH-X&show_icons=true&hide_title=true&include_all_commits=true&count_private=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SVAH-X&layout=compact&hide_title=true" />
+</p>
 
----
+<p align="left">
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=SVAH-X&hide_border=true" />
+</p>
 
-## 🧠 Technical Skills
-
-**Programming**
-- Python, C++, Swift, JavaScript
-
-**AI / ML**
-- PyTorch, Hugging Face, Transformers
-- Fine-tuning pipelines (LoRA, QLoRA)
-- Retrieval-Augmented Generation (RAG)
-- Computer Vision & NLP
-
-**Systems & Tools**
-- Linux (WSL2), Docker
-- CUDA, Git, Jupyter
-- Local & edge-side deployment (research)
-
----
-
-## 🚀 Selected Projects
-
-### 🔹 Contract Parsing & Comparison AI
-> An AI system for extracting key contract terms, detecting inconsistencies, and generating concise summaries.
-
-- OCR + LLM-based structured extraction
-- Semantic comparison across document versions
-- Focus on reliability and enterprise use cases
-
----
-
-### 🔹 Local LLM Fine-Tuning Pipeline
-> Fine-tuning large language models on consumer GPUs with limited VRAM.
-
-- Models: Dream-7B, GPT-OSS-20B
-- Techniques: LoRA / QLoRA
-- Focus: memory efficiency & optimization
-
----
-
-### 🔹 Reinforcement Learning Game Agent
-> Training RL agents to learn control policies in custom game environments.
-
-- Policy optimization and environment design
-- PyTorch-based RL training
-
----
-
-## 📌 Current Focus
-
-- LLM training & optimization
-- Multimodal AI systems
-- Deployable, real-world AI applications
-
----
-
-## 🌐 Links
-
-- Personal Website: [https://svah-x.ca](https://svah-x.ca)
-- GitHub: [https://github.com/SVAH-X](https://github.com/SVAH-X)
-
+<p align="left">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SVAH-X&hide_border=true" />
+</p>
